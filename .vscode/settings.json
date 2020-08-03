@@ -1,0 +1,15 @@
+{
+    // Ruby
+    "[ruby]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+    },
+    "ruby.rubocop.useBundler": true,
+    "solargraph.useBundler": true,
+
+    // JSON
+    "[json]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4
+    }
+}
